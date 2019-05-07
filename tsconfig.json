@@ -1,0 +1,19 @@
+// tsconfig.json
+{
+
+    "compilerOptions": {
+      "lib": [
+        "es2016",
+        "es2017",
+        "esnext",
+        "dom"
+      ],
+    "target": "es6",
+        "baseUrl": ".",
+      "paths": {
+        "*": ["types/*"],
+        "@App/*": ["src/*"],
+        "lib/*": ["common/*"]
+      }
+    }
+  }
