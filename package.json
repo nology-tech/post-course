@@ -5,7 +5,7 @@
   "repository": "https://github.com/nology-tech/typescript-challenges.git",
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "^24.0.9",
+    "@types/jest": "^24.0.12",
     "jest": "^24.1.0",
     "ts-jest": "^24.0.0",
     "tslint": "^5.13.0",
