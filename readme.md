@@ -19,7 +19,7 @@ The following activities are to be done in the weeks after the course, i.e. week
 -   Week 4 - Complete Tech Tests 4-6 & Katas 7-12
 -   Week 5 - Complete Tech Test 7 & Katas 13-16
 -   Week 6 - Complete Tech Test 8 & all Katas
--   Week 7 - Complete all JavaScript Katas (from scratch)
+-   Week 7 - Create a new personal interest project, including React, Authentication, Hosting and a DB
 -   Week 8 - Complete Tech Tests 1-3 & Katas 1-6 (from scratch)
 -   Week 9 - Complete Tech Tests 4-6 & Katas 7-12 (from scratch)
 -   Week 10 - Complete Tech Test 7 & Katas 13-16 (from scratch)
