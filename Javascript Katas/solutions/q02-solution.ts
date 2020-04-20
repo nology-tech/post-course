@@ -1,9 +1,14 @@
 // How do you find the duplicate number on a given integer array?
 
-export function findDuplicate(numberArray: number[]) {
-    const matches: number[] = [];
-    for (const num of numberArray) {
-      if (matches.indexOf(num) === -1) { matches.push(num); } else { return num; }
+export const findDuplicate = (numberArray: number[]) => {
+  const notDuplicateInteger: number[] = [];
+  let duplicateNum: number;
+  numberArray.forEach(num => {
+    if (!notDuplicateInteger.includes(num)) {
+      notDuplicateInteger.push(num);
+    } else {
+      duplicateNum = num;
     }
-    return undefined;
-  }
+  });
+  return duplicateNum;
+};
