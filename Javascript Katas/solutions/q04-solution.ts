@@ -15,3 +15,6 @@ export const removeDuplicates = (numberArray: number[]) => {
 //   });
 //   return notDuplicatedNumbers;
 // };
+
+
+// [... new Set(numberArray)];
