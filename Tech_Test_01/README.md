@@ -6,13 +6,13 @@
 
 ### Required knowledge:
 
-* Typescript
+* JavaScript
 * CSS pre-processor (SCSS or SASS)
 * Angular > v4.3 or React > v16
 * Bootstrap / Material
 * Git
 
-### Duration: max 3h
+### Description
 
 Spend the time to find a clean way to solve the tasks, we just want to see how much you know about Angular/React and how you can use these awesome technologies.
 
